@@ -103,7 +103,7 @@
 > >
 > > Are you saying you think this is me? **Answer the question**!
 
-> I don't have the asnwer to that question.
+> I don't have the answer to that question.
 >
 > > You believe that the book **has all the answers**.
 > >
