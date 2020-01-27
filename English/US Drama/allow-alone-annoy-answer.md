@@ -1,4 +1,4 @@
-## allow - I'm not allowed to do that. (01/27/2020) 
+## allow - I'm not allowed to do that. 
 > Allow me in.
 >
 > > Will you **allow me in** to apologize?
@@ -43,7 +43,7 @@
 > >
 > > Your son's **alleged** suicide attempt.
 
-## alone - Just leave me alone. (01/27/2020)
+## alone - Just leave me alone. 
 
 > You're not alone.
 >
@@ -69,7 +69,7 @@
 > >
 > > I couldn't afford my rent, **let alone** pay a bunch of medical bills.
 
-## annoy - It's annoying, isn't it? (01/27/2020)
+## annoy - It's annoying, isn't it? 
 
 > You annoy me sometimes.
 >
@@ -89,7 +89,7 @@
 > >
 > > I remember, she'**s annoying**.
 
-## answer - I think I know the answer to that. (01/27/2020)
+## answer - I think I know the answer to that.
 
 > Get out of my chair. And the answer is no.
 >
