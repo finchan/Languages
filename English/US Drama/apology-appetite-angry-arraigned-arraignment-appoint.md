@@ -36,7 +36,7 @@
 
 > I have a good appetite.
 >
-> > Looks like you ** got your appetite back**. That's a good sign.
+> > Looks like you **got your appetite back**. That's a good sign.
 > >
 > > I'**ve got no appetite**; I'm aching all over.
 
