@@ -47,7 +47,7 @@
 
 > You're not alone.
 >
-> > Son, **you're not alone**, and you'are not sick.
+> > Son, **you're not alone**, and you're not sick.
 > >
 > > All I'm saying is that **you're not alone**, all right?
 
